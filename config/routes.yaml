@@ -1,3 +1,11 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+ #path: /deportes
+ #controller: App\Controller\DeportesController::inicio
+
+
+#blog_show:
+ #   path: /deportes/primer-articulo
+  #  controller: App\Controller\DeportesController::mostrar
